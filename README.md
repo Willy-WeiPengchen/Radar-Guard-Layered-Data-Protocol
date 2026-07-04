@@ -1,6 +1,7 @@
 # Radar-Guard-Layered-Data-Protocol
 Patented phased-array radar layered data protocol for controllable AI reasoning scheduling, dual-ledger traceability, data sovereignty governance and LLM hallucination suppression.
 
+Radar-Guard-Layered-Data-Protocol 开源README
 申请号：2026109907017
 申请日：2026 年 07 月 03 日
 申请人：北京市优谛科技有限公司
@@ -10,9 +11,11 @@ Name：A Controllable Scheduling and Tracing Method and System for AI Inference 
 卷宗编号：Tokener-I-20260703-RADAR
 ________________________________________
 Project Overview / 项目简介
-Radar-Guard（相控式雷达卫士分层数据协议体系）是一套专利认证的AI 私域数据主权可控调度、分层协议准入、双账本镜像追溯、幻觉抑制推理底层基础设施框架。
-本框架彻底解决传统大模型生态六大底层缺陷：数据主权失衡、授权边界模糊、黑箱推理幻觉、原创语义无法确权、平台无偿收割数据、推理链路不可追溯。通过相控雷达定向调度、分层版权协议前置准入、一体两面双账本对账、链元-句元双层语义锚定、逻辑树收敛舒张可控推理，实现 AI 推理可主权、可管控、可确权、可追溯、可收敛、可分润的全链路标准化落地。
-Radar-Guard is a patent-verified layered data protocol and controllable AI reasoning scheduling infrastructure. It implements phased-array radar directional scheduling, dual-ledger mirror traceability, human-centric semantic anchoring, and logic-tree convergent reasoning, solving traditional LLM black-box defects, data abuse risks, and unmeasured copyright issues.
+Radar-Guard（相控式雷达卫士分层数据协议体系）是发明人韦朋辰原生原创、自主可控的AI底层基础设施框架，叠加自研专利强化权属保护，核心实现：AI私域数据主权可控调度、分层协议准入、双账本镜像追溯、幻觉抑制推理全链路能力。
+本框架彻底解决传统大模型生态六大底层缺陷：数据主权失衡、授权边界模糊、黑箱推理幻觉、原创语义无法确权、平台无偿收割数据、推理链路不可追溯。依托发明人原创理论体系与独创架构范式，通过相控雷达定向调度、分层版权协议前置准入、一体两面双账本对账、Tokener链元-句元双层语义锚定、逻辑树收敛舒张可控推理，实现 AI 推理可主权、可管控、可确权、可追溯、可收敛、可分润的全链路标准化落地。
+本体系所有原创权属天然归属作者韦朋辰，以文本版权CC-BY-NC-ND4.0和代码Apache2.0形成效力、全生命周期有效，不依附于专利授权与维护状态。
+Radar-Guard is an originally created, fully self-controllable underlying AI infrastructure developed by inventor Pengchen Wei, with additional patented reinforcement protection. It implements phased-array radar directional scheduling, dual-ledger mirror traceability, human-centric semantic anchoring, and logic-tree convergent reasoning, solving traditional LLM black-box defects, data abuse risks, and unmeasured copyright issues. 
+All intellectual property rights of the original work in this system are naturally vested in the author Wei Pengchen. This copyright arrangement is effective throughout the entire life cycle of the work, with textual content licensed under CC-BY-NC-ND 4.0 and code licensed under Apache 2.0, and its validity is independent of any patent authorization and maintenance status.
 ________________________________________
 Core Technical Positioning / 核心技术定位
 本专利属于AI 底层数据治理 + 可控推理基础设施，与发明人在先三项体系专利形成四层完整架构、相互独立、深度协同、无权利重叠：
@@ -105,4 +108,6 @@ Contact & Release Information
 Inventor：Pengchen Wei（韦朋辰）｜Tokener Original Architecture Founder
 Email：wpc616@aliyun.com
 Date：2026-07-04
+
+
 
