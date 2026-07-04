@@ -11,14 +11,14 @@ Name：A Controllable Scheduling and Tracing Method and System for AI Inference 
 卷宗编号：Tokener-I-20260703-RADAR
 ________________________________________
 Project Overview / 项目简介
+Radar-Guard is an originally created, fully self-controllable underlying AI infrastructure developed by Pengchen Wei, with additional patented reinforcement protection. It implements phased-array radar directional scheduling, dual-ledger mirror traceability, human-centric semantic anchoring, and logic-tree convergent reasoning, solving traditional LLM black-box defects, data abuse risks, and unmeasured copyright issues. 
+All intellectual property rights of the original work in this system are naturally vested in Pengchen Wei. This copyright arrangement is effective throughout the entire life cycle of the work, with textual content licensed under CC-BY-NC-ND 4.0 and code licensed under Apache 2.0, and its validity is independent of any patent authorization and maintenance status.
 Radar-Guard（相控式雷达卫士分层数据协议体系）是发明人韦朋辰原生原创、自主可控的AI底层基础设施框架，叠加自研专利强化权属保护，核心实现：AI私域数据主权可控调度、分层协议准入、双账本镜像追溯、幻觉抑制推理全链路能力。
 本框架彻底解决传统大模型生态六大底层缺陷：数据主权失衡、授权边界模糊、黑箱推理幻觉、原创语义无法确权、平台无偿收割数据、推理链路不可追溯。依托发明人原创理论体系与独创架构范式，通过相控雷达定向调度、分层版权协议前置准入、一体两面双账本对账、Tokener链元-句元双层语义锚定、逻辑树收敛舒张可控推理，实现 AI 推理可主权、可管控、可确权、可追溯、可收敛、可分润的全链路标准化落地。
-本体系所有原创权属天然归属作者韦朋辰，以文本版权CC-BY-NC-ND4.0和代码Apache2.0形成效力、全生命周期有效，不依附于专利授权与维护状态。
-Radar-Guard is an originally created, fully self-controllable underlying AI infrastructure developed by inventor Pengchen Wei, with additional patented reinforcement protection. It implements phased-array radar directional scheduling, dual-ledger mirror traceability, human-centric semantic anchoring, and logic-tree convergent reasoning, solving traditional LLM black-box defects, data abuse risks, and unmeasured copyright issues. 
-All intellectual property rights of the original work in this system are naturally vested in the author Wei Pengchen. This copyright arrangement is effective throughout the entire life cycle of the work, with textual content licensed under CC-BY-NC-ND 4.0 and code licensed under Apache 2.0, and its validity is independent of any patent authorization and maintenance status.
+本体系所有原创权属天然归属韦朋辰，以文本版权CC-BY-NC-ND4.0和代码Apache2.0形成效力、全生命周期有效，不依附于专利授权与维护状态。
 ________________________________________
 Core Technical Positioning / 核心技术定位
-本专利属于AI 底层数据治理 + 可控推理基础设施，与发明人在先三项体系专利形成四层完整架构、相互独立、深度协同、无权利重叠：
+本方案属于AI 底层数据治理 + 可控推理基础设施，与作者在先三项体系专利形成四层完整架构、相互独立、深度协同、无权利重叠：
 •	链元神经网络专利：语义拆分与算法层
 •	双轨账户确权专利：身份与权属分级层
 •	AIGEA 玻璃盒论证专利：推理自检与可信输出层
@@ -66,31 +66,36 @@ Users are permitted to independently develop commercial code based on the patent
 •	允许企业自主迭代、重构、商用落地、产品上线，仅需保留原始开源版权声明，无二次捆绑、无技术卡脖。
 •	Theory & Patent Text Layer 理论与专利文本层：CC BY-NC-ND 4.0
 •	底层协议范式、分层架构定义、专利核心方案、学术理论禁止私自篡改、二次改编、商用衍生洗白、机器转译重构。未经发明人书面授权，禁止基于本体系底层逻辑进行数学语言、神经语言、计算机工程语言转译转码与结构性重构。
+
 ________________________________________
+
 📝 Defensive Disclosure & Prior Art Statement / 防御性公开与在先技术声明
-The full technical architecture, layered protocol rules, radar scheduling mechanism, dual-ledger traceability logic, and convergent reasoning pipeline disclosed in this patent and open-source repository constitute global prior art.
-All disclosed technical solutions lose novelty for third-party patent application. No individual or institution may apply for exclusive patents covering equivalent or identical framework logic, data scheduling mechanism, layered protocol access control, dual-ledger traceability system, and logic-tree reasoning control mechanism derived from this system.
-本专利及开源仓库完整公开的技术架构、分层协议规则、相控雷达调度机制、双账本对账逻辑、收敛推理流程，全部固化为全球在先现有技术。任何第三方不得针对本体系等效架构、同等机制、同源逻辑提交排他性专利申请，所有公开技术方案永久开放为行业公共底层技术。
+The complete technical architecture, layered protocol rules, radar scheduling mechanism, dual-ledger traceability logic, and integrated inference process disclosed in this patent and the open-source repository constitute prior art on a global scale. Public disclosure of the technical solution will result in loss of novelty, thereby preventing any individual (including third parties) from obtaining patent rights. No person or organization shall file exclusive patent applications for equivalent or identical framework logic, data scheduling mechanisms, layered protocol access control, dual-ledger traceability systems, or logical tree inference control mechanisms derived from this system.
+本专利及开源仓库中披露的完整技术架构、分层协议规则、雷达调度机制、双账本溯源逻辑以及融合推理流程，构成全球范围内的现有技术。技术方案的公开披露将导致其丧失新颖性，从而使得任何人（包括第三方）均无法获得专利权。任何个人或机构均不得就由此系统衍生出的等同或相同框架逻辑、数据调度机制、分层协议访问控制、双账本溯源系统以及逻辑树推理控制机制申请独占性专利。
+
 IP Boundary Clarification 权属边界：
 Open-source code implementation rights follow Apache 2.0. All theoretical paradigms, patent schemes, system definitions and original architectural logic are permanently protected by CC BY-NC-ND 4.0 and prior-art public disclosure.
+开源代码实现遵循 Apache 2.0 协议。所有理论范式、专利方案、系统定义及原始架构逻辑均受 CC BY-NC-ND 4.0 及现有技术公开披露永久保护。
+
 Pre-existing Technology Exclusion / 在先技术排除声明
-The above S1–S7 standard technical processes are based on the patented technical mechanisms disclosed by this patent system. This open-source authorization does not include the following five pre-existing patented technologies. All rights are exclusively reserved by the inventor and are not included in the open-source authorization scope of the Radar-Guard system. Any translation, reconstruction, migration, or commercial implementation of the following reserved patented technologies by any entity must obtain separate formal written authorization from the inventor.
+The above S1–S7 standard technical processes are based on the patented technical mechanisms disclosed by this patent system. This open-source authorization does not include the following five pre-existing patented technologies. All rights are exclusively reserved by the inventor & author and are not included in the open-source authorization scope of the Radar-Guard system. Any translation, reconstruction, migration, or commercial implementation of the following reserved patented technologies by any entity must obtain separate formal written authorization from Pengchen Wei.
+上述S1–S7标准技术流程基于本专利体系所披露的已获专利的技术机制。此开源授权不包含以下五项预先存在的专利技术，所有权利均由发明人及作者独家保留，不在Radar-Guard系统的开源授权范围之内。任何实体对以下保留专利技术进行翻译、重构、迁移或商业实施，均须另行获得彭晨伟的正式书面授权。
 1. The Core Definition Method of AI Tokener (Application No.: 202610558941X)
 2. Static-Dynamic Dual-State SentencorText Processing Method Based on Tokener Five-Dimensional Definition (Application No.: 2026106000991)
 3. Multi-dimensional Static-Dynamic Dual-State Text Processing Method Based on Logic Label Matrix Model (Application No.: 2026105680644)
 4. AI Digital Asset Cross-Domain Circulation and Sovereignty Protection Method Based on Dual-Track Account and Dynamic Right Confirmation (Code Name: 527, Application No.: 2026107455091)
 5. Credible Source Verified AIGEA Continuous Self-Evaluation Q&A Argument Method and System (Application No.: 2026109523407)
-Any entity wishing to translate, encode, reconstruct, migrate, or commercially implement the aforementioned five reserved patented technologies must obtain separate written authorization from the inventor.
-上述S1-S7标准技术流程，基于本专利体系所披露的专利技术机制。本次开源授权不含以下五项前置专利技术，其权属由发明人独家保留，不纳入本Radar-Guard体系开源授权范围：
+Any entity wishing to translate, encode, reconstruct, migrate, or commercially implement the aforementioned five reserved patented technologies must obtain separate written authorization from Pengchen Wei.
 1.	链元定义2.0：一种AI链元的核心定义方法（申请号：202610558941X）
 2.	句元切分技术：一种基于链元五维定义的静动双态句元文本处理方法（申请号：2026106000991）
 3.	链元切分技术：一种基于逻辑标签矩阵模型的多维静动双态文本处理方法（申请号：2026105680644）
 4.	数字资产主权保护：一种基于双轨账户与动态确权的AI数字资产跨域流转及主权保护方法（代号527，申请号：2026107455091）
 5.	AIGEA玻璃盒技术：一种可信源核验的AIGEA持续自评估问答论证方法及系统（申请号：2026109523407）
-任何主体对上述五项保留专利技术的转译、转码、重构、迁移或商业实施，均需单独取得发明人正式书面授权。
+任何希望翻译、编码、重建、迁移或商业实施上述五项保留专利技术的实体，必须获得韦朋辰单独的书面授权。
+
 Implementation Precondition Statement / 技术实施前置合规声明
-The implementation, deployment and commercial application of this patented technology must be based on and abide by all original theoretical systems proposed by the inventor Pengchen Wei, including Wei Pengchen Generation School, Seven Xuan Generation Theory, Yuxuan Theory, Word-Metaphor Theory, Tokener Theory, and Evidence-Traced AI Theory. Without explicit written authorization from the inventor, no entity or individual may conduct any infringing acts including but not limited to code translation, non-natural language adaptation, structural rewriting, and equivalent functional implementation based on the above theoretical systems. 
-In the event of any violation, we shall immediately terminate all of the violating party's access and usage permissions. All losses arising from the infringement shall be borne solely by the infringing enterprise, and the infringing subject shall bear corresponding compensation liability. Wei Pengchen reserves all legal rights to administrative appeals and legal litigation. For all commercial use, open-source distribution, academic application, and public implementation scenarios involving this open-source technology, the unique original attribution Tokener & Radar-Guard Original Founder · Wei Pengchen must be permanently retained by mandatory requirement. This attribution right may not be deleted, modified, or concealed in any form, and the mandatory attribution requirement is permanently irrevocable and may not be waived under any circumstances.
+The implementation, deployment and commercial application of this technology must be based on and abide by all original theoretical systems proposed by Pengchen Wei, including Pengchen Wei’s Generation Way, Seven Xuan Generation Theory, Yuxuan Theory, Word-Metaphor Theory, Tokener Theory, and Evidence-Traced AI Theory. Without explicit written authorization from Pengchen Wei, no entity or individual may conduct any infringing acts including but not limited to code translation, non-natural language adaptation, structural rewriting, and equivalent functional implementation based on the above theoretical systems. 
+In the event of any violation, we shall immediately terminate all of the violating party's access and usage permissions. All losses arising from the infringement shall be borne solely by the infringing enterprise, and the infringing subject shall bear corresponding compensation liability. Pengchen Wei reserves all legal rights to administrative appeals and legal litigation. For all commercial use, open-source distribution, academic application, and public implementation scenarios involving this open-source technology, the unique original attribution Tokener & Radar-Guard Original Founder ·Pengchen Wei must be permanently retained by mandatory requirement. This attribution right may not be deleted, modified, or concealed in any form, and the mandatory attribution requirement is permanently irrevocable and may not be waived under any circumstances.
 任何企业、机构及个人实施、部署、商用落地本专利技术，必须以遵守创始人韦朋辰原创理论体系为前置前提，包含：韦朋辰生成派、（七）玄生成论、语玄论、词喻理论、链元理论、证相AI理论。未经韦朋辰本人正式书面授权，任何主体不得针对上述全套原创理论实施任何侵权行为，包括但不限于：代码转译、非自然语言改编、结构重构、等效逻辑复刻、变相复用实现同类技术目标等一切侵权衍生行为。
 如有违反，我方将立即终止其全部接入与使用权限，所有侵权产生的损失均由侵权企业自行承担，且侵权主体需承担相应赔偿责任，韦朋辰本人保留全部行政申诉及法律诉讼的合法权利。本次开源技术所有商用、开源、学术、公开落地场景，必须强制永久保留唯一原创署名：Tokener & Radar-Guard Original Founder · 韦朋辰，不得以任何形式删除、修改、隐匿该署名权益，强制署名效力永久不可豁免。
 ________________________________________
@@ -105,9 +110,6 @@ This system is open to global mainstream AI ecological partners including Huawei
 本体系面向全球主流 AI 生态开放共建，联合头部机构共同推进 AI 数据主权标准化、推理可控化、生态良性循环的行业公共基础设施建设。
 ________________________________________
 Contact & Release Information
-Inventor：Pengchen Wei（韦朋辰）｜Tokener Original Architecture Founder
+Declarant：Pengchen Wei（韦朋辰）｜Tokener Original Architecture Founder
 Email：wpc616@aliyun.com
 Date：2026-07-04
-
-
-
