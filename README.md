@@ -84,14 +84,12 @@ The above S1–S7 standard technical processes are based on the patented technic
 2. Static-Dynamic Dual-State SentencorText Processing Method Based on Tokener Five-Dimensional Definition (Application No.: 2026106000991)
 3. Multi-dimensional Static-Dynamic Dual-State Text Processing Method Based on Logic Label Matrix Model (Application No.: 2026105680644)
 4. AI Digital Asset Cross-Domain Circulation and Sovereignty Protection Method Based on Dual-Track Account and Dynamic Right Confirmation (Code Name: 527, Application No.: 2026107455091)
-5. Credible Source Verified AIGEA Continuous Self-Evaluation Q&A Argument Method and System (Application No.: 2026109523407)
-Any entity wishing to translate, encode, reconstruct, migrate, or commercially implement the aforementioned five reserved patented technologies must obtain separate written authorization from Pengchen Wei.
+Any entity wishing to translate, encode, reconstruct, migrate, or commercially implement the aforementioned four reserved patented technologies must obtain separate written authorization from Pengchen Wei.
 1.	链元定义2.0：一种AI链元的核心定义方法（申请号：202610558941X）
 2.	句元切分技术：一种基于链元五维定义的静动双态句元文本处理方法（申请号：2026106000991）
 3.	链元切分技术：一种基于逻辑标签矩阵模型的多维静动双态文本处理方法（申请号：2026105680644）
 4.	数字资产主权保护：一种基于双轨账户与动态确权的AI数字资产跨域流转及主权保护方法（代号527，申请号：2026107455091）
-5.	AIGEA玻璃盒技术：一种可信源核验的AIGEA持续自评估问答论证方法及系统（申请号：2026109523407）
-任何希望翻译、编码、重建、迁移或商业实施上述五项保留专利技术的实体，必须获得韦朋辰单独的书面授权。
+任何希望翻译、编码、重建、迁移或商业实施上述四项保留专利技术的实体，必须获得韦朋辰单独的书面授权。
 
 Implementation Precondition Statement / 技术实施前置合规声明
 The implementation, deployment and commercial application of this technology must be based on and abide by all original theoretical systems proposed by Pengchen Wei, including but not limited to Pengchen Wei’s Generation Way, Seven Xuan Generation Theory, Yuxuan Theory, Word-Metaphor Theory, Tokener Theory, YOZD Digital-Physical Convergence Technology Solution and Evidence-Traced AI Theory. Without explicit written authorization from Pengchen Wei, no entity or individual may conduct any infringing acts including but not limited to code translation, non-natural language adaptation, structural rewriting, and equivalent functional implementation based on the above theoretical systems. 
