@@ -1,30 +1,30 @@
 # Radar-Guard-Layered-Data-Protocol
 Patented phased-array radar layered data protocol for controllable AI reasoning scheduling, dual-ledger traceability, data sovereignty governance and LLM hallucination suppression.
 
-Radar-Guard-Layered-Data-Protocol 开源README
-申请号：2026109907017
-申请日：2026 年 07 月 03 日
-申请人：北京市优谛科技有限公司
-发明人：韦朋辰
-名称：一种相控式雷达卫士分层数据协议驱动的 AI 推理可控调度与追溯方法及系统
-Name：A Controllable Scheduling and Tracing Method and System for AI Inference Driven by Phased Radar Guard Layered Data Protocol
-卷宗编号：Tokener-I-20260703-RADAR
+## Radar-Guard-Layered-Data-Protocol 开源README
+- 申请号：2026109907017
+- 申请日：2026 年 07 月 03 日
+- 申请人：北京市优谛科技有限公司
+- 发明人：韦朋辰
+- 名称：一种相控式雷达卫士分层数据协议驱动的 AI 推理可控调度与追溯方法及系统
+- Name：A Controllable Scheduling and Tracing Method and System for AI Inference Driven by Phased Radar Guard Layered Data Protocol
+- 卷宗编号：Tokener-I-20260703-RADAR
 ________________________________________
-Project Overview / 项目简介
+## Project Overview / 项目简介
 - Radar-Guard is an originally created, fully self-controllable underlying AI infrastructure developed by Pengchen Wei, with additional patented reinforcement protection. It implements phased-array radar directional scheduling, dual-ledger mirror traceability, human-centric semantic anchoring, and logic-tree convergent reasoning, solving traditional LLM black-box defects, data abuse risks, and unmeasured copyright issues. 
 - All intellectual property rights of the original work in this system are naturally vested in Pengchen Wei. This copyright arrangement is effective throughout the entire life cycle of the work, with textual content licensed under CC-BY-NC-ND 4.0 and code licensed under Apache 2.0, and its validity is independent of any patent authorization and maintenance status.
 - Radar-Guard（相控式雷达卫士分层数据协议体系）是发明人韦朋辰原生原创、自主可控的AI底层基础设施框架，叠加自研专利强化权属保护，核心实现：AI私域数据主权可控调度、分层协议准入、双账本镜像追溯、幻觉抑制推理全链路能力。
 - 本框架彻底解决传统大模型生态六大底层缺陷：数据主权失衡、授权边界模糊、黑箱推理幻觉、原创语义无法确权、平台无偿收割数据、推理链路不可追溯。依托发明人原创理论体系与独创架构范式，通过相控雷达定向调度、分层版权协议前置准入、一体两面双账本对账、Tokener链元-句元双层语义锚定、逻辑树收敛舒张可控推理，实现 AI 推理可主权、可管控、可确权、可追溯、可收敛、可分润的全链路标准化落地。
 本体系所有原创权属天然归属韦朋辰，以文本版权CC-BY-NC-ND4.0和代码Apache2.0形成效力、全生命周期有效，不依附于专利授权与维护状态。
 ________________________________________
-**Core Technical Positioning / 核心技术定位**
+## Core Technical Positioning / 核心技术定位
 -本方案属于AI 底层数据治理 + 可控推理基础设施，与作者在先三项体系专利形成四层完整架构、相互独立、深度协同、无权利重叠：
-•	链元神经网络专利：语义拆分与算法层
-•	双轨账户确权专利：身份与权属分级层
-•	AIGEA 玻璃盒论证专利：推理自检与可信输出层
-•	本 Radar-Guard 雷达卫士专利：数据协议准入、分层调度、对账追溯、生态闭环底座层
+1. •	链元神经网络专利：语义拆分与算法层
+2. •	双轨账户确权专利：身份与权属分级层
+3. •	AIGEA 玻璃盒论证专利：推理自检与可信输出层
+4. •	本 Radar-Guard 雷达卫士专利：数据协议准入、分层调度、对账追溯、生态闭环底座层
 ________________________________________
-**✨ Core Technical Features / 核心技术特性**
+## ✨ Core Technical Features / 核心技术特性
 •	Layered Copyright Protocol Access｜分层版权协议前置准入
 •	原生支持全版权保留、CC-BY、CC-BY-SA、CC-BY-NC、CC-BY-NC-SA、CC-BY-ND、CC-BY-NC-ND 全谱系授权分层管控，无协议授权自动拦截 AI 数据调用，从架构层面杜绝越权侵权。
 •	Phased-Array Radar Directional Scheduling｜相控式雷达定向调度
@@ -40,7 +40,7 @@ ________________________________________
 •	Three-Mode Storage Sovereignty｜三形态存储主权可控
 •	本地私密存储、第三方私有云、协议公有云自由切换，彻底实现用户主导、平台不私囤、不截留原创资产。
 ________________________________________
-**🧩 Standard Technical Pipeline / 标准技术流程（S1–S7）**
+## 🧩 Standard Technical Pipeline / 标准技术流程（S1–S7）
 S1 双轨账户分层数据初始化 + 版权协议自主配置
 S2 一体两面双账本镜像对账体系构建
 S3 链元-句元双层语义资产锚定与分级标记
@@ -49,7 +49,7 @@ S5 协议边界内摘果式精准推理与答案组织
 S6 全链路确权、溯源审计与合规分润归集
 S7 交互数据实时归集与双账本动态同步更新
 ________________________________________
-**🌲 Application Scenarios / 应用场景**
+## 🌲 Application Scenarios / 应用场景
 •	私域知识库合规问答与 AI 辅助原创创作
 •	学术科研高复杂度、低幻觉严谨推理
 •	创作者内容确权、溯源、分润与版权保护
