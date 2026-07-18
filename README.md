@@ -50,12 +50,12 @@ ________________________________________
 7. S7 交互数据实时归集与双账本动态同步更新
 ________________________________________
 ## 🌲 Application Scenarios / 应用场景
-•	私域知识库合规问答与 AI 辅助原创创作
-•	学术科研高复杂度、低幻觉严谨推理
-•	创作者内容确权、溯源、分润与版权保护
-•	企业私有数据安全调度与合规 RAG 部署
-•	AI 训练数据合规治理、杜绝无偿收割
-•	监管可审计、可举证、可追溯的可信 AI 落地
+1. •	私域知识库合规问答与 AI 辅助原创创作
+2. •	学术科研高复杂度、低幻觉严谨推理
+3. •	创作者内容确权、溯源、分润与版权保护
+5. •	企业私有数据安全调度与合规 RAG 部署
+6. •	AI 训练数据合规治理、杜绝无偿收割
+7. •	监管可审计、可举证、可追溯的可信 AI 落地
 ________________________________________
 📝 Open Source Statement / 开源声明
 - This open-source repository provides complete framework logic, standard pipeline definitions, and reference implementations for academic research and industry open reference.
@@ -63,10 +63,10 @@ ________________________________________
 - Users are permitted to independently develop commercial code based on the patent disclosure and open-source framework, without relying on official exclusive binary distribution.
   
 **开源双协议分层规制（永久固定）：**
-•	Engineering Code Layer 工程代码层：Apache 2.0
-•	允许企业自主迭代、重构、商用落地、产品上线，仅需保留原始开源版权声明，无二次捆绑、无技术卡脖。
-•	Theory & Patent Text Layer 理论与专利文本层：CC BY-NC-ND 4.0
-•	底层协议范式、分层架构定义、专利核心方案、学术理论禁止私自篡改、二次改编、商用衍生洗白、机器转译重构。未经发明人书面授权，禁止基于本体系底层逻辑进行数学语言、神经语言、计算机工程语言转译转码与结构性重构。
+- Engineering Code Layer 工程代码层：Apache 2.0
+- 允许企业自主迭代、重构、商用落地、产品上线，仅需保留原始开源版权声明，无二次捆绑、无技术卡脖。
+- Theory & Patent Text Layer 理论与专利文本层：CC BY-NC-ND 4.0
+- 底层协议范式、分层架构定义、专利核心方案、学术理论禁止私自篡改、二次改编、商用衍生洗白、机器转译重构。未经发明人书面授权，禁止基于本体系底层逻辑进行数学语言、神经语言、计算机工程语言转译转码与结构性重构。
 
 ________________________________________
 
