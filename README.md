@@ -70,15 +70,17 @@ Users are permitted to independently develop commercial code based on the patent
 ________________________________________
 
 📝 Defensive Disclosure & Prior Art Statement / 防御性公开与在先技术声明
+---
 The complete technical architecture, layered protocol rules, radar scheduling mechanism, dual-ledger traceability logic, and integrated inference process disclosed in this patent and the open-source repository constitute prior art on a global scale. Public disclosure of the technical solution will result in loss of novelty, thereby preventing any individual (including third parties) from obtaining patent rights. No person or organization shall file exclusive patent applications for equivalent or identical framework logic, data scheduling mechanisms, layered protocol access control, dual-ledger traceability systems, or logical tree inference control mechanisms derived from this system.
 本专利及开源仓库中披露的完整技术架构、分层协议规则、雷达调度机制、双账本溯源逻辑以及融合推理流程，构成全球范围内的现有技术。技术方案的公开披露将导致其丧失新颖性，从而使得任何人（包括第三方）均无法获得专利权。任何个人或机构均不得就由此系统衍生出的等同或相同框架逻辑、数据调度机制、分层协议访问控制、双账本溯源系统以及逻辑树推理控制机制申请独占性专利。
-
+---
 IP Boundary Clarification 权属边界：
 Open-source code implementation rights follow Apache 2.0. All theoretical paradigms, patent schemes, system definitions and original architectural logic are permanently protected by CC BY-NC-ND 4.0 and prior-art public disclosure.
 开源代码实现遵循 Apache 2.0 协议。所有理论范式、专利方案、系统定义及原始架构逻辑均受 CC BY-NC-ND 4.0 及现有技术公开披露永久保护。
-
+---
 Pre-existing Technology Exclusion / 在先技术排除声明
 The above S1–S7 standard technical processes are based on the patented technical mechanisms disclosed by this patent system. This open-source authorization does not include the following five pre-existing patented technologies. All rights are exclusively reserved by the inventor & author and are not included in the open-source authorization scope of the Radar-Guard system. Any translation, reconstruction, migration, or commercial implementation of the following reserved patented technologies by any entity must obtain separate formal written authorization from Pengchen Wei.
+---
 上述S1–S7标准技术流程基于本专利体系所披露的已获专利的技术机制。此开源授权不包含以下五项预先存在的专利技术，所有权利均由发明人及作者独家保留，不在Radar-Guard系统的开源授权范围之内。任何实体对以下保留专利技术进行翻译、重构、迁移或商业实施，均须另行获得彭晨伟的正式书面授权。
 1. The Core Definition Method of AI Tokener (Application No.: 202610558941X)
 2. Static-Dynamic Dual-State SentencorText Processing Method Based on Tokener Five-Dimensional Definition (Application No.: 2026106000991)
@@ -90,12 +92,15 @@ Any entity wishing to translate, encode, reconstruct, migrate, or commercially i
 3.	链元切分技术：一种基于逻辑标签矩阵模型的多维静动双态文本处理方法（申请号：2026105680644）
 4.	数字资产主权保护：一种基于双轨账户与动态确权的AI数字资产跨域流转及主权保护方法（代号527，申请号：2026107455091）
 任何希望翻译、编码、重建、迁移或商业实施上述四项保留专利技术的实体，必须获得韦朋辰单独的书面授权。
+---
 
 Implementation Precondition Statement / 技术实施前置合规声明
+---
 The implementation, deployment and commercial application of this technology must be premised on compliance with all original theoretical systems established by Pengchen Wei  as the sole founder, including but not limited to the Pengchen Wei Generative Way, Qixuan Generative Theory, Yuxuan Theory, Ci-Yu Theory, Tokener Theory, YOZD number-object fusion technical solution, and evidence traceability AI theory. Without the explicit written authorization of Peng Chenwei, no institution or individual may carry out any infringing acts based on the above-mentioned theoretical systems, including but not limited to code translation, non-natural language adaptation, structural rewriting, and functionally equivalent implementation.
 In the event of any violation, we shall immediately terminate all of the violating party's access and usage permissions. All losses arising from the infringement shall be borne solely by the infringing enterprise, and the infringing subject shall bear corresponding compensation liability. Pengchen Wei reserves all legal rights to administrative appeals and legal litigation. For all commercial use, open-source distribution, academic application, and public implementation scenarios involving this open-source technology, the unique original attribution Tokener & Radar-Guard Original Founder ·Pengchen Wei must be permanently retained by mandatory requirement. This attribution right may not be deleted, modified, or concealed in any form, and the mandatory attribution requirement is permanently irrevocable and may not be waived under any circumstances.
 任何企业、机构及个人实施、部署、商用落地本专利技术，必须以遵守创始人韦朋辰原创理论体系为前置前提，包含但不限于：韦朋辰生成派、（七）玄生成论、语玄论、词喻理论、链元理论、优制谛数实融合技术方案和证相AI理论。未经韦朋辰本人正式书面授权，任何主体不得针对上述全套原创理论实施任何侵权行为，包括但不限于：代码转译、非自然语言改编、结构重构、等效逻辑复刻、变相复用实现同类技术目标等一切侵权衍生行为。
 如有违反，我方将立即终止其全部接入与使用权限，所有侵权产生的损失均由侵权企业自行承担，且侵权主体需承担相应赔偿责任，韦朋辰本人保留全部行政申诉及法律诉讼的合法权利。本次开源技术所有商用、开源、学术、公开落地场景，必须强制永久保留唯一原创署名：Tokener & Radar-Guard Original Founder · 韦朋辰，不得以任何形式删除、修改、隐匿该署名权益，强制署名效力永久不可豁免。
+---
 ________________________________________
 🚫 Infringement & Project Application Prohibition / 侵权与违规申报禁止条款
 Strictly prohibited without explicit written authorization from the inventor:
